@@ -1,6 +1,6 @@
 README
 
-Readme for Researcher Dashboard Breakout: DASPOS Workshop
+#Readme for Researcher Dashboard Breakout: DASPOS Workshop
 
 This is a repo for Breakout 3 Web Dashboard for Repeating and Reusing Research a session held at the DASPOS Workshop on Container Strategies for Data & Software Preservation.  More information about the workshop is available at: https://daspos.crc.nd.edu/index.php/workshops/container-strategies-for-data-software-preservation-that-promote-open-science
 
