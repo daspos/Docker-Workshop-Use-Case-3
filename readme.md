@@ -16,3 +16,11 @@ The breakout sessions are related to the 5/19/2016  [Web Dashboard for Repeating
 The researcher dashboard aims to provide an intuitive Web-based interface to expose fully interactive research containers that support the lifecycle of scholarly communication. Research containers enable executable and repeatable research by supporting methods, source code, and data within dynamically created Docker containers. We will work with a version that interoperates with the Open Science Framework (OSF), which is an environment that supports open materials, data, tools to connect projects and initiatives and easy online publishing of results. Using the latter system, a researcher can create a project on the OSF, connect data management tools to it (e.g. Google Drive, Dropbox, Box, Dataverse, and so on) and then use of the dashboard (implemented as an add on)to execute methods on OSF data in a container using the Boatload API.
 
 For more background information, check out the [NDS Dashboard v1 bitbucket repo](https://bitbucket.org/nds-org/nds-dashboard).
+
+## Tutorial Documentation
+
+All tutorial documentation and slides for this session can be found on this google drive:
+
+https://drive.google.com/folderview?id=0B3PGtsdpeSOSS3NwYXdHSGJUdzg&usp=sharing 
+
+On this drive, you can find the source code for the project, the datasets and tutorial slides that provide the walkthrough for this session.
