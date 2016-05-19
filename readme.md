@@ -24,3 +24,7 @@ All tutorial documentation and slides for this session can be found on this goog
 https://drive.google.com/open?id=0B3PGtsdpeSOSaTRmVGJ3MVB4bE0
 
 On this drive, you can find the source code for the project, the datasets and tutorial slides that provide the walkthrough for this session.
+
+## Github for the OSF Dashboard Add-on is:
+
+https://github.com/crcresearch/osf.io
